@@ -1,0 +1,29 @@
+{
+  "name": "ibbtaskno1",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node-inspector": "^0.12.8",
+    "querystring": "^0.2.0",
+    "redis": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PROGRAMM33R/ibbTaskNo1.git"
+  },
+  "author": "Adam Lasak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PROGRAMM33R/ibbTaskNo1/issues"
+  },
+  "homepage": "https://github.com/PROGRAMM33R/ibbTaskNo1#readme"
+}
